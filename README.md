@@ -32,3 +32,8 @@ graphic made by me
 <p align="center">
   <img src="https://i.postimg.cc/1XL6N7bq/IMG-5596.gif" alt="gif"/>
 </p>
+
+<a href="https://github.com/dihlilah">
+  <img src="https://img.shields.io/badge/click!-dihlilah-31393f">
+</a>
+
