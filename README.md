@@ -27,6 +27,9 @@
 graphic made by me
 
 <p align="center">
+possibly light riko kinnie
+
+<p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
 
 <p align="center">
