@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-possibly light riko kinnie
+if i am distanced, then i am either afk or bored, i almost never have dni in my name unless it's ships.
 
 <p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
