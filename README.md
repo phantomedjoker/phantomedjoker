@@ -6,6 +6,7 @@
 <p align="center"">
 <a href="https://nezhajoker.straw.page/">strawpage</a>
 <a href="https://phantomedjoker.atabook.org">atabook</a>
+<a href="https://rentry.co/mkggti32">new rentry</a>
  
 <p align="center">
   <img src="https://i.postimg.cc/j28VFnfP/IMG-6710.jpg" width="500">
