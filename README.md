@@ -16,9 +16,6 @@
 if i am distanced, then i am either afk or bored, i almost never have dni in my name unless it's ships.
 
 <p align="center">
-please if i ever make a alnst skin do not interact with me about ships PLEASE i've seen those mfs on pinterests who complain about literally any ship that's like mizixtill or suaxivan like bro please leave tillx(anyone who' not ivan) and mizix(anyone who' not sua) (this also goes for other characters) ALONE PLEASEEE
-
-<p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
 
 <p align="center">
