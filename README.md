@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-if i am distanced, then i am either afk or bored, i almost never have dni in my name unless it's ships.
+${{\color{#753c5f}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
 
 <p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
