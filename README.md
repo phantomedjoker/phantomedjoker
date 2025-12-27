@@ -9,11 +9,11 @@
 <a href="https://rentry.co/mkggti32">new rentry</a>
  
 <p align="center">
-  <img src="https://i.postimg.cc/j28VFnfP/IMG-6710.jpg" width="500">
+  <img src="https://i.postimg.cc/661pf5jC/IMG-7132.jpg" width="50%">
 </p>
 
 <p align="center">
-${{\color{#753c5f}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
+${{\color{#532763}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
 
 <p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
