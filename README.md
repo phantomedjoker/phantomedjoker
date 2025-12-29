@@ -9,7 +9,7 @@
 <a href="https://rentry.co/mkggti32">new rentry</a>
  
 <p align="center">
-  <img src="https://i.postimg.cc/661pf5jC/IMG-7132.jpg" width="50%">
+  <img src="https://i.postimg.cc/pV11ByPm/IMG-7300.gif" width="50%">
 </p>
 
 <p align="center">
