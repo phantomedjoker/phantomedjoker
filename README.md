@@ -19,7 +19,7 @@
 <a href="https://github.com/5orrows/">alim</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/uffohsnack">uffoh</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/RATIO-TECHNIQUE">soap</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/KaceClosed">hannie</a>
 </div>
 <div align="center">
-<a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/rawfishy">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/HanaHanaHimawari">hana</a>
+<a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/rawfishy">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a>
  
  <p align="center">
   <img src="https://i.postimg.cc/nLMLJtZC/IMG-7822.gif" width="400" alt="Centered Image">
