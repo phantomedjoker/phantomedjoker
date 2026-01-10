@@ -33,7 +33,7 @@
 ${{\color{#532763}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
 
 <p align="center">
- <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> hi glazer
+ <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> hi glazer 🤓
 
 <p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
