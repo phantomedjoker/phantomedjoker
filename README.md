@@ -20,6 +20,8 @@
 </div>
 <div align="center">
 <a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/fishedd">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a>
+
+<a href="https://github,com/sleepyroseee">rose</a>
  
  <p align="center">
   <img src="https://i.postimg.cc/nLMLJtZC/IMG-7822.gif" width="400" alt="Centered Image">
