@@ -24,7 +24,7 @@
 <a href="https://github,com/sleepyroseee">rose</a>
  
  <p align="center">
-  <img src="https://i.postimg.cc/cLcJpfhj/IMG-8590.gif" width="400" alt="Centered Image">
+  <img src="https://i.postimg.cc/KvPcTt6F/IMG-8591.gif" width="400" alt="Centered Image">
 </p>
  
 <p align="center">
@@ -32,10 +32,10 @@
 </p>
 
 <p align="center">
-${{\color{#75672f}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
+${{\color{#943757}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
 
 <p align="center">
- <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> hi glazer 🤓
+ <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> ${{\color{#943757}{\hi glazer 🙄}}}}$
 
 <p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
