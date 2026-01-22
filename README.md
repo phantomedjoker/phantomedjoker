@@ -1,6 +1,6 @@
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=75672f&style=social&base=806" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=aa1e62&style=social&base=806" alt="Profile views"/>
 </p>
 
 <p align="center"">
@@ -35,7 +35,7 @@
 ${{\color{#943757}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
 
 <p align="center">
- <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> ${{\color{#943757}{\hi glazer 🙄}}}}$
+ <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> glaaaazerrrr 
 
 <p align="center">
 <a href="https://github.com/dlsmantIe">..</a>
