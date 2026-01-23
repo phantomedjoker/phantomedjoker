@@ -28,7 +28,7 @@
 </p>
  
 <p align="center">
-  <img src="https://i.postimg.cc/63Wp6qjZ/IMG-8583.gif" width="65%">
+  <img src="https://i.postimg.cc/HWRqVdXf/Untitled212-20260123174146.png" width="65%">
 </p>
 
 <p align="center">
