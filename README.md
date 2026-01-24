@@ -1,7 +1,10 @@
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=aa1e62&style=social&base=806" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=7d652f&style=social&base=806" alt="Profile views"/>
 </p>
+
+<p align="center">
+ <img src="https://i.postimg.cc/G2zyDxjz/IMG-8667.png" width="300" alt="Centered Image">
 
 <p align="center"">
 <a href="https://thephantomed.straw.page">strawpage</a>
@@ -24,7 +27,7 @@
 <a href="https://github,com/sleepyroseee">rose</a>
  
  <p align="center">
-  <img src="https://i.postimg.cc/KvPcTt6F/IMG-8591.gif" width="400" alt="Centered Image">
+  <img src="https://i.postimg.cc/ZKdGK7H8/IMG-8624.gif" width="573" alt="Centered Image">
 </p>
  
 <p align="center">
@@ -32,7 +35,7 @@
 </p>
 
 <p align="center">
-${{\color{#943757}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
+${{\color{#256084}{\text{if i am distanced it is mostly due to boredom or 'dni'}}}}$
 
 <p align="center">
  <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> glaaaazerrrr <img src="https://i.postimg.cc/T3KkScTY/IMG-7784.webp" width="40" />
