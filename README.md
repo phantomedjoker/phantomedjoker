@@ -1,4 +1,6 @@
 
+ [CLICK ME](https://aidn.jp/wowa/278341303) O(∩_∩)O
+ 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=7d652f&style=social&base=806" alt="Profile views"/>
 </p>
