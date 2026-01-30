@@ -1,5 +1,12 @@
 
- [CLICK ME](https://aidn.jp/wowa/278341303) O(∩_∩)O
+ [CLICK ME](https://aidn.jp/wowa/278341303) O(∩_∩)O    
+ <details>
+  <summary>${{\color{#bba034}{\text{click here too!}}}}$</summary>
+</p>
+  <p align="center">
+    <a href="https://github.com/f0Ily/">♡</a>
+  </p>
+</details>
  
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=7d652f&style=social&base=806" alt="Profile views"/>
