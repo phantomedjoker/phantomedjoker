@@ -40,7 +40,7 @@
 </p>
  
 <p align="center">
-  <img src="https://i.postimg.cc/HWRqVdXf/Untitled212-20260123174146.png" width="65%">
+  <img src="https://i.postimg.cc/8P2w8HNk/Untitled226-20260201093854.png" width="75%">
 </p>
 
 <p align="center">
