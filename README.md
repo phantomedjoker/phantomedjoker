@@ -1,5 +1,6 @@
 
  [CLICK ME](https://aidn.jp/wowa/278341303) O(∩_∩)O    
+***
  <details>
   <summary>${{\color{#B1BFCE}{\text{click here too!}}}}$</summary>
 </p>
@@ -17,6 +18,8 @@
 <p align="center">
  <img src="https://i.postimg.cc/rwtkcmnT/IMG-9317.png" width="50%" alt="Centered Image">
 
+ ***
+ 
 <p align="center"">
 <a href="https://thephantomed.straw.page">strawpage</a>
 <a href="https://phantomedjoker.atabook.org">atabook</a>
