@@ -1,7 +1,7 @@
 
  [CLICK ME](https://aidn.jp/wowa/278341303) O(∩_∩)O    
  <details>
-  <summary>${{\color{#bba034}{\text{click here too!}}}}$</summary>
+  <summary>${{\color{#B1BFCE}{\text{click here too!}}}}$</summary>
 </p>
   <p align="center">
     <a href="https://github.com/f0Ily/">♡</a>
@@ -9,17 +9,19 @@
 </details>
  
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=7d652f&style=social&base=806" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=9aaec2&style=social&base=806" alt="Profile views"/>
 </p>
 
 <p align="center">
- <img src="https://i.postimg.cc/SNMbn1kz/IMG-9277.gif" width="100%" alt="Centered Image">
+<img src="https://i.postimg.cc/jSTpVX74/IMG-9321.png" with="100%"
+<p align="center">
+ <img src="https://i.postimg.cc/rwtkcmnT/IMG-9317.png" width="50%" alt="Centered Image">
 
 <p align="center"">
 <a href="https://thephantomed.straw.page">strawpage</a>
 <a href="https://phantomedjoker.atabook.org">atabook</a>
 <a href="https://rentry.co/mkggti32">new rentry</a>
-
+ 
 <div align="center">
 <a href="https://github.com/dihlilah/">lilah</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lenxlu/">len</a>
 </div>
@@ -32,6 +34,8 @@
 </div>
 <div align="center">
 <a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/fishedd">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a>
-
+<p align="center">
+<img src="https://i.postimg.cc/jSTpVX74/IMG-9321.png" with="100%"
+ </p>
 <p align="center">
  <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> glaaaazerrrr <img src="https://i.postimg.cc/T3KkScTY/IMG-7784.webp" width="40" />
