@@ -5,7 +5,7 @@
   <summary>${{\color{#B1BFCE}{\text{click here too!}}}}$</summary>
 </p>
   <p align="center">
-    <a href="https://github.com/f0Ily/">♡</a>
+    <a href="https://github.com/apolIov/">♡</a>
   </p>
 </details>
  
