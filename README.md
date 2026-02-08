@@ -1,24 +1,14 @@
 
- [CLICK ME](https://aidn.jp/wowa/278341303) O(∩_∩)O   (also scroll down) 
+ [CLICK ME](https://aidn.jp/wowa/278341303)
 ***
- <details>
-  <summary>${{\color{#B1BFCE}{\text{click here too!}}}}$</summary>
-</p>
-  <p align="center">
-    <a href="https://github.com/apolIov/">♡</a>
-  </p>
-</details>
- 
+
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=◇%20%20&color=9aaec2&style=social&base=806" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=Μcdonalds%20%20&color=1c7174&style=social&base=806" alt="Profile views"/>
 </p>
 
 <p align="center">
 <img src="https://i.postimg.cc/jSTpVX74/IMG-9321.png" with="100%"
-<p align="center">
- <img src="https://i.postimg.cc/rwtkcmnT/IMG-9317.png" width="50%" alt="Centered Image">
-
- ***
+ </p>
  
 <p align="center"">
 <a href="https://thephantomed.straw.page">strawpage</a>
@@ -40,5 +30,8 @@
 <p align="center">
 <img src="https://i.postimg.cc/jSTpVX74/IMG-9321.png" with="100%"
  </p>
+ 
+ ***
+ 
 <p align="center">
  <a href="https://github.com/hammondjesse-max/">@hammondjesse-max</a> glaaaazerrrr <img src="https://i.postimg.cc/T3KkScTY/IMG-7784.webp" width="40" />
