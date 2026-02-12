@@ -23,10 +23,12 @@
 <a href="https://github.com/vascoscoscos">vasco</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/Panorato/">switz</a> ‎‎‎    ‎<a href="https://github.com/7oriord/">tori</a>
 </div>
 <div align="center">
-<a href="https://github.com/5orrows/">alim</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/uffohsnack">uffoh</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/RATIO-TECHNIQUE">soap</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/KaceClosed">hannie</a>
+<a href="https://github.com/5orrows/">alim</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/uffohsnack">uffoh</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/RATIO-TECHNIQUE">soap</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/KaceClosed">hannie</a> 
 </div>
 <div align="center">
-<a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/fishedd">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a>
+<a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/fishedd">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a> ‎‎‎  ‎‎ 
+
+ <a href="https://github.com/sleepyroseee/">rose</a> ‎‎‎  ‎‎ <a href="https://github.com/bugsthatbite/">shuu</a>
 <p align="center">
 <img src="https://i.postimg.cc/jSTpVX74/IMG-9321.png" with="100%"
  </p>
