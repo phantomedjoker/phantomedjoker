@@ -30,7 +30,7 @@
 
  <a href="https://github.com/sleepyroseee/">rose</a> ‎‎‎  ‎‎ <a href="https://github.com/bugsthatbite/">shuu</a>
 <p align="center">
-<img src="https://i.postimg.cc/jSTpVX74/IMG-9321.png" with="100%"
+<img src="https://i.postimg.cc/t4nWGDZB/IMG-9501.png" with="100%"
  </p>
  
  ***
