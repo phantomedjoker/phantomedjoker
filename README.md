@@ -3,7 +3,7 @@
 ***
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=Μcdonalds%20%20&color=ddb5dd&style=social&base=806" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=Μcdonalds%20%20&color=97D6C9&style=social&base=806" alt="Profile views"/>
 </p>
 
 <p align="center"
