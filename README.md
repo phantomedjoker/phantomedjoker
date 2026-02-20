@@ -8,7 +8,7 @@
 
 <p align="center"
 <p align="right">
-<img src="https://i.postimg.cc/vTCkq36s/IMG-9483.jpg" width="100%" </p>
+<img src="https://i.postimg.cc/Znt4h5L2/IMG-9733.gif" width="500" </p>
  </p> 
 </p>
 <p align="center"">
