@@ -8,31 +8,8 @@
 
 <p align="center"
 <p align="right">
-<img src="https://i.postimg.cc/Znt4h5L2/IMG-9733.gif" width="500" </p>
- </p> 
-</p>
-<p align="center"">
-<a href="https://thephantomed.straw.page">strawpage</a>
-<a href="https://phantomedjoker.atabook.org">atabook</a>
-<a href="https://rentry.co/mkggti32">new rentry</a>
- 
-<div align="center">
-<a href="https://github.com/dihlilah/">lilah</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lenxlu/">len</a>
-</div>
-<div align="center">
-<a href="https://github.com/vascoscoscos">vasco</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/Panorato/">switz</a> ‎‎‎    ‎<a href="https://github.com/7oriord/">tori</a>
-</div>
-<div align="center">
-<a href="https://github.com/5orrows/">alim</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/uffohsnack">uffoh</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/RATIO-TECHNIQUE">soap</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/KaceClosed">hannie</a> 
-</div>
-<div align="center">
-<a href="https://github.com/j3st-r/">yuu</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/fishedd">fishy</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/JELLYFISHSYS-READ">kuon¹</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/lacecherries">lace</a> ‎‎‎  ‎‎ ‎<a href="https://github.com/soph4sure">soph</a> ‎‎‎  ‎‎ 
-
- <a href="https://github.com/sleepyroseee/">rose</a> ‎‎‎  ‎‎ <a href="https://github.com/bugsthatbite/">shuu</a>
-<p align="center">
-<img src="https://i.postimg.cc/t4nWGDZB/IMG-9501.png" with="100%"
- </p>
- 
+<img src="https://i.postimg.cc/9FNNcn9B/IMG-0088.png" width="100%" </p>
+reworking
  ***
  
 <p align="center">
