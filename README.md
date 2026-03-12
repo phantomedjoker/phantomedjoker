@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=hi%20%20&color=000000&style=social&base=806" alt="Profile views"/>
 </p>
 
- [CLICK ME](https://aidn.jp/wowa/278341303)
+ [CLICK ME](https://aidn.jp/wowa/278341303) oh and hi pls int and c+h i kinda shy *(unless your my friend)* and scared to interact (sorta)
 ***
 <p align="center">${{\color{#6c6c6c}{\text{click gojo pngs below for links}}}}$ </p>
 <p align="center">
