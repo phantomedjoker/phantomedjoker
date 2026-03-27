@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://i.postimg.cc/ry9y2Y4C/IMG-0288.jpg" width="400"/>
 </p>
-<p align="center">${{\color{#B58323}{\text{hold my rotting hand NOW}}}}$ </p>
+<p align="center">${{\color{#B58323}{\text{ａｌｉ／ｃｏｒｎ}}}}$ </p>
 <p align="center">
 <a href="https://phantomedjoker.atabook.org">ata<a\>|<a href="https://thephantomed.straw.page">straw<a\>
 <p align="center">
