@@ -11,4 +11,4 @@ sign + draw pls
 <img src="https://i.postimg.cc/QCsn6TQn/IMG-0461.jpg" width="400">
 
 <div align="right">
-@lembellique @shxrkyxio @Senisafreako @abyssal-critter @lovelydrug @dihlilah ♡→ @lenxlu @sleepyroseee @5orrows @vascoscoscos @RATIO-TECHNIQUE ☹️ @7oriord @uffohsnack @soph4sure @sacchxrine @j3st-r @PulmuPalasokeri @freedomsdrums @bugsthatbite @simurians @NarcissusOfThespiae
+@lembellique @shxrkyxio @Senisafreako @abyssal-critter @lovelydrug @dihlilah ♡→ @lenxlu @sleepyroseee @5orrows @vascoscoscos @RATIO-TECHNIQUE ☹️ @7oriord @Panorato @uffohsnack @soph4sure @sacchxrine @j3st-r @PulmuPalasokeri @freedomsdrums @bugsthatbite @simurians @NarcissusOfThespiae
