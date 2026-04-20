@@ -1,14 +1,20 @@
- <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=players%20%20&color=ffffff&style=for-the-badge&base=806" alt="Profile views"/>
-</p>
-<div align="right">
-<a href="https://phantomedjoker.atabook.org">ata<a\>|<a href="https://thephantomed.straw.page">straw<a\>
-</a>
- <p align="right">
-sign + draw pls
- </p>
-<div align="left">
-<img src="https://i.postimg.cc/QCsn6TQn/IMG-0461.jpg" width="400">
+<table>
+<tr>
+<td>
 
-<div align="right">
-@lembellique @shxrkyxio @Senisafreako @abyssal-critter @lovelydrug @dihlilah ♡→ @lenxlu @sleepyroseee @5orrows @vascoscoscos @RATIO-TECHNIQUE ☹️ @7oriord @Panorato @uffohsnack @soph4sure @sacchxrine @j3st-r @PulmuPalasokeri @freedomsdrums @bugsthatbite @simurians @NarcissusOfThespiae
+### my employees
+- [lilah](https://github.com/dihlilah) [♥︎](love) [lenix](https://github.com/lenxlu) [rose](https://github.com/sleepyroseee) [alim](https://github.com/5orrows)
+- [vasco](https://github.com/vascoscoscos) [soap](https://github.com/RATIO-TECHNIQUE) [tori](https://github.com/7oriord) [lace](https://github.com/sxccharine)
+ -  [uffoh](https://github.com/uffohsnack) [switz](https://github.com/Panorato) [yuu](https://github.com/j3st-r) [shuu](https://github.com/bugsthatbite)
+ -  [kirara](https://github.com/freedomsdrums) [narkissos](https://github.com/NarcissusOfTheSpiae) [fishy](https://github.com/abyssal-critter)
+ -  [kori](https://github.com/lovelydrug) [soph](https://github.com/soph4sure) [low](https://github.com/simurians) [minho](https://github.com/Anhaalyz)
+ -  [lem](https://github.com/lembellique) 
+
+</td>
+<td>
+
+<img src="" width="150"/>
+
+</td>
+</tr>
+</table>
