@@ -8,7 +8,7 @@
  -  [uffoh](https://github.com/uffohsnack) [switz](https://github.com/Panorato) [yuu](https://github.com/j3st-r) [shuu](https://github.com/bugsthatbite)
  -  [kirara](https://github.com/freedomsdrums) [narkissos](https://github.com/NarcissusOfTheSpiae) [fishy](https://github.com/abyssal-critter)
  -  [kori](https://github.com/lovelydrug) [soph](https://github.com/soph4sure) [low](https://github.com/simurians) [minho](https://github.com/Anhaalyz)
- -  [lem](https://github.com/lembellique) wip
+ -  [lem](https://github.com/lembellique) [sen](https://github.com/Senisafreako) [kuon](https://github.com/JELLYFISHSYS-READ) [olli](https://github.com/PulmuPalasokeri)
 
 </td>
 <td>
