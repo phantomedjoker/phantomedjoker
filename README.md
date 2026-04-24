@@ -9,11 +9,12 @@
  -  [kirara](https://github.com/freedomsdrums) [narkissos](https://github.com/NarcissusOfTheSpiae) [fishy](https://github.com/abyssal-critter)
  -  [kori](https://github.com/lovelydrug) [soph](https://github.com/soph4sure) [lowe](https://github.com/simurians) [minho](https://github.com/Anhaalyz)
  -  [lem](https://github.com/lembellique) [sen](https://github.com/Senisafreako) [kuon](https://github.com/JELLYFISHSYS-READ) [olli](https://github.com/PulmuPalasokeri)
+ -  [xio](https://githublcom/shxrkyxio) [star](https://github.com/chosoblood) [shrimp](https://github.com/HIGUGETO) [tama](https://github.com/HanaHanaHimawari)
 
 </td>
 <td>
 
-<img src="" width="150"/>
+<img src="https://i.postimg.cc/3wwpRDzD/IMG-0795.jpg" width="150"/>
 
 </td>
 </tr>
