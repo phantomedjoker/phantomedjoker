@@ -1,3 +1,6 @@
+<p align="lft">
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=stink&color=bc9b3f&style=flat" />
+</p>
 <table>
 <tr>
 <td>
