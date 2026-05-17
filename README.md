@@ -1,5 +1,5 @@
 <p align="lft">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=stink&color=bc9b3f&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=stink&color=443052&style=flat" />
 </p>
 <table>
 <tr>
