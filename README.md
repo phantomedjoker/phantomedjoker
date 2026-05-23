@@ -1,5 +1,5 @@
 <p align="lft">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=demigods&color=443052&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=熱&color=ff7000&style=flat" />
 </p>
 
 l̲i̲v̲e̲ ̲a̲n̲d̲ ̲l̲e̲t̲ ̲d̲i̲e̲
