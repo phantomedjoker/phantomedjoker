@@ -3,7 +3,7 @@
 </p>
 
 
-- [lilah](https://github.com/dihlilah) [♥︎](love) [lenix](https://github.com/lenxlu) [rose](https://github.com/sleepyroseee) [alim](https://github.com/5orrows)
+- [lilah](https://github.com/dihlilah) [lenix](https://github.com/lenxlu) [rose](https://github.com/sleepyroseee) [alim](https://github.com/5orrows)
 - [vasco](https://github.com/vascoscoscos) [soap](https://github.com/RATIO-TECHNIQUE) [tori](https://github.com/7oriord) [lace](https://github.com/sacchxrine)
  -  [uffoh](https://github.com/uffohsnack) [switz](https://github.com/Panorato) [yuu](https://github.com/j3st-r) [shuu](https://github.com/bugsthatbite)
  -  [kirara](https://github.com/freedomsdrums) [narkissos](https://github.com/NarcissusOfTheSpiae) [fishy](https://github.com/abyssal-critter)  
