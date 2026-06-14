@@ -10,5 +10,6 @@
  -  [kori](https://github.com/lovelydrug) [soph](https://github.com/soph4sure) [lowe](https://github.com/simurians) [minho](https://github.com/Anhaalyz)
  -  [lem](https://github.com/lembellique) [sen](https://github.com/Senisafreako) [kuon](https://github.com/JELLYFISHSYS-READ) [olli](https://github.com/PulmuPalasokeri)
  -  [xio](https://github.com/shxrkyxio) [star](https://github.com/chosobIood) [shrimp](https://github.com/HIGUGETO) [tama](https://github.com/HanaHanaHimawari)
+ -  [dani](https://github.com/FORZA-FERRARI)
 
- qties ..
+ hi qties ! ..
