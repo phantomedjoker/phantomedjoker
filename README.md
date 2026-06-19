@@ -1,15 +1,29 @@
-<p align="lft">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=熱&color=ff7000&style=flat" />
-</p>
+FRICKING REMAKE SHUTUUUUPPPPPP
 
 
-- [lilah](https://github.com/dihlilah) [lenix](https://github.com/lenxlu) [rose](https://github.com/sleepyroseee) [alim](https://github.com/5orrows)
-- [vasco](https://github.com/vascoscoscos) [soap](https://github.com/RATIO-TECHNIQUE) [tori](https://github.com/7oriord) [lace](https://github.com/sacchxrine)
- -  [uffoh](https://github.com/uffohsnack) [switz](https://github.com/Panorato) [yuu](https://github.com/j3st-r) [shuu](https://github.com/bugsthatbite)
- -  [kirara](https://github.com/freedomsdrums) [narkissos](https://github.com/NarcissusOfTheSpiae) [fishy](https://github.com/abyssal-critter)  
- -  [kori](https://github.com/lovelydrug) [soph](https://github.com/soph4sure) [lowe](https://github.com/simurians) [minho](https://github.com/Anhaalyz)
- -  [lem](https://github.com/lembellique) [sen](https://github.com/Senisafreako) [kuon](https://github.com/JELLYFISHSYS-READ) [olli](https://github.com/PulmuPalasokeri)
- -  [xio](https://github.com/shxrkyxio) [star](https://github.com/chosobIood) [shrimp](https://github.com/HIGUGETO) [tama](https://github.com/HanaHanaHimawari)
- -  [dani](https://github.com/FORZA-FERRARl)
 
- hi qties ! ..
+
+
+
+
+
+
+
+
+
+
+
+
+<sub><sub><sub>10:33 AM[w2i ,, son.] thinks: ?</sub></sub></sub>
+
+<sub><sub><sub>10:33 AM[wat dat] pull out its my turn</sub></sub></sub>
+
+<sub><sub><sub>10:33 AM[w2i ,, son.] thinks: ok</sub></sub></sub>
+
+<sub><sub><sub>10:33 AM[wat dat] ????</sub></sub></sub>
+
+<sub><sub><sub>10:33 AM[w2i ,, son.] thinks: HELLO?</sub></sub></sub>
+
+<sub><sub><sub>10:33 AM[wat dat] hey for KASHIMO</sub></sub></sub>
+
+<sub><sub><sub>10:33 AM[wat dat] i would</sub></sub></sub>
