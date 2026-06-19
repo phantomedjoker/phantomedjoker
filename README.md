@@ -1,29 +1,6 @@
-FRICKING REMAKE SHUTUUUUPPPPPP
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=idiots&color=ffffff&style=flat" />
+</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<sub><sub><sub>10:33 AM[w2i ,, son.] thinks: ?</sub></sub></sub>
-
-<sub><sub><sub>10:33 AM[wat dat] pull out its my turn</sub></sub></sub>
-
-<sub><sub><sub>10:33 AM[w2i ,, son.] thinks: ok</sub></sub></sub>
-
-<sub><sub><sub>10:33 AM[wat dat] ????</sub></sub></sub>
-
-<sub><sub><sub>10:33 AM[w2i ,, son.] thinks: HELLO?</sub></sub></sub>
-
-<sub><sub><sub>10:33 AM[wat dat] hey for KASHIMO</sub></sub></sub>
-
-<sub><sub><sub>10:33 AM[wat dat] i would</sub></sub></sub>
+<p align="center">
+<img src="https://i.postimg.cc/5yNSBcHM/IMG-1401.png" width="500px">
