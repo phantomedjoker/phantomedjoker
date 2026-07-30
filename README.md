@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=idiots&color=ffffff&style=flat" />
 </p>
-rmking (i listen to whatever is good to me) stamp made by me
+rmking (i listen to whatever is good to me) stamp made by me , use insp
 
 [MY NEW STRAW](https://souiofdoom.straw.page/) 
 
