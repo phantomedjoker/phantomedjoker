@@ -1,24 +1,13 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=phantomedjoker&label=idiots&color=ffffff&style=flat" />
-</p>
-
-
-[MY NEW STRAW](https://souiofdoom.straw.page/) 
-
-
-
+  <img src="https://img.shields.io/badge/liyue%20harborers-1.0k-6D8B5A?style=flat&labelColor=8C5A00" alt="liyue harborers">
+    </p>
 
 <p align="center">
-i really like dragons
-<p/>
-
-
-
-
+<img src="https://i.postimg.cc/VLGyv3CL/IMG-2543.png" width="500">
+</p>
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iyoezw4z7n2nnu7zfsgy5jnha4&cover_image=false&theme=default&show_offline=false&background_color=dbaa3d&interchange=false&profanity=false&hide_remaster=false&bar_color=385d65&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iyoezw4z7n2nnu7zfsgy5jnha4&cover_image=false&theme=novatorem&show_offline=false&background_color=dbaa3d&interchange=false&profanity=false&hide_remaster=false&bar_color=385d65&bar_color_cover=false">
   </a>
-</p>
