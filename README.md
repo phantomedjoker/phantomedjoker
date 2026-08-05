@@ -14,9 +14,3 @@
 
   $${\color{yellow}click \space on \space prns \space for \space my \space links}$$
 
-
-
-
-
-
-10:17 PM[#bestbrotheroftheyear ,, c*h] whispers: I'm sorry daddy sukuna but I'm gonna ahve to be a disobedient kitten
