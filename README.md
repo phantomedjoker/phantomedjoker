@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/liyue%20harborers-1.0k-6D8B5A?style=flat&labelColor=8C5A00" alt="liyue harborers">
+  <img src="https://img.shields.io/badge/♡ teyvat%20travelers-1.0k-6D8B5A?style=flat&labelColor=8C5A00" alt="liyue harborers">
     </p>
 
 <p align="center">
